@@ -1,0 +1,43 @@
+
+.header{
+    width: 900px;
+    height: 70px;
+    background: coral;
+    text-align: center;
+
+}
+
+.main{
+    width: 700px;
+    background: chartreuse;
+    text-align: left;
+    color: cornflowerblue;
+    float: left;
+    padding: 2px;
+}
+
+.sidebar{
+    width: 180px;
+    background: lightcoral;
+    text-align: center;
+    float: right;
+}
+
+.footer{
+    width: 900px;
+    background: lightgrey;
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+
+.body{
+    width: 900px;
+}
+
+.nav{
+    text-align: center;
+    line-height: 20px;
+}
